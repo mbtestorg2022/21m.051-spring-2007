@@ -51,12 +51,105 @@ Example Materials Used by a Piano Lab Instructor
 
 The materials for the piano lab are varied. Many students, as we have seen, are not truly beginners at the piano. Beyond the basic scales, triads and arpeggios, cadences and method pieces, the repertoire and technical exercises will be custom-tailored for each student during the semester.  
 
-| TOPICS | EXAMPLE MATERIALS |
-| --- | --- |
-| Scales, arpeggios, triads, I-IV-V-I cadences in all keys |  {{< br >}}{{< br >}} Selections from a scales book in the Albert method series; for example: {{< br >}}{{< br >}} Palmer, W., M. Manus, and A. V. Lethco. _Alfred's Basic Piano Library: Intermediate Musicianship Book_ 2. Van Nuys, CA: Alfred Publishing Co. {{< br >}}{{< br >}}  |
-| Selected beginner pieces dealing with C position, G position, F position, and basic chordal accompaniment |  {{< br >}}{{< br >}} Selections from the Albert and Bastien Adult beginner method books, such as: {{< br >}}{{< br >}} Bastien, Jane, Lisa Bastien, and Lori Bastien. _Piano for Adults, Book 1_. San Diego, CA: Neil A. Kjos Music Company, 1999. ISBN: 9780849773020. {{< br >}}{{< br >}} Bastien's Older Beginner Piano Library: _Easy Piano Classics_. Edited by James Bastien. San Diego, CA: Neil A. Kjos Music Company. {{< br >}}{{< br >}} Palmer, W., M. Manus, and A. V. Lethco. _Adult All-in-One Course, Level 1_. Van Nuys, CA: Alfred Publishing Co., 1996. {{< br >}}{{< br >}} _Piano Literature Book 2: 17th, 18th, 19th centuries_. Edited by Frances Clark and Louise Goss. Miami, FL: Summy-Birchard Company. {{< br >}}{{< br >}}  |
-| Simplified Hanon-type finger exercises from the Bastien technique book, as well as [original Hanon exercises](http://en.wikipedia.org/wiki/The_Virtuoso_Pianist_In_60_Exercises). | Hanon, Charles-Louis. _The Virtuoso Pianist in 60 Exercises_. New York, NY: G. Schirmer, 1986. ISBN: 9780793525447. |
-| Simple pieces from Bartok Mikrokosmos. | Bartok, Bela. _Mikrokosmos_. Vol. 1. New York, NY: Boosey and Hawkes, 1987. |
-| Selected pieces and exercises |  {{< br >}}{{< br >}} Lindeman, Carolynn. _PianoLab: An Introduction to Class Piano_. 5th edition (Book and CD). Belmont, CA: Wadsworth/Thomson Learning, 2003. ISBN: 9780534603540. {{< br >}}{{< br >}} Olson, Lynn Freeman and Martha Hilley. _Piano for Pleasure: A Basic Course for Adults_. 4th edition (Book and CD). New York, NY: G. Schirmer, 2001. ISBN: 9780534519629 {{< br >}}{{< br >}}  |
-| Sight reading exercises from a variety of sources | Smith, Hannah. _Progressive Sight-Reading Exercises for Piano_. New York, NY: G. Schirmer Inc., 1978. ISBN: 9780793552627. |
-| Classical repertoire from assorted collection books | Choices ranging from easy Bach minuets, Burgmuller, Clementi Sonatinas to Debussy preludes, Beethoven sonatas, etc.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+EXAMPLE MATERIALS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Scales, arpeggios, triads, I-IV-V-I cadences in all keys
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Selections from a scales book in the Albert method series; for example:
+
+Palmer, W., M. Manus, and A. V. Lethco. _Alfred's Basic Piano Library: Intermediate Musicianship Book_ 2. Van Nuys, CA: Alfred Publishing Co.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Selected beginner pieces dealing with C position, G position, F position, and basic chordal accompaniment
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Selections from the Albert and Bastien Adult beginner method books, such as:
+
+Bastien, Jane, Lisa Bastien, and Lori Bastien. _Piano for Adults, Book 1_. San Diego, CA: Neil A. Kjos Music Company, 1999. ISBN: 9780849773020.
+
+Bastien's Older Beginner Piano Library: _Easy Piano Classics_. Edited by James Bastien. San Diego, CA: Neil A. Kjos Music Company.
+
+Palmer, W., M. Manus, and A. V. Lethco. _Adult All-in-One Course, Level 1_. Van Nuys, CA: Alfred Publishing Co., 1996.
+
+_Piano Literature Book 2: 17th, 18th, 19th centuries_. Edited by Frances Clark and Louise Goss. Miami, FL: Summy-Birchard Company.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Simplified Hanon-type finger exercises from the Bastien technique book, as well as [original Hanon exercises](http://en.wikipedia.org/wiki/The_Virtuoso_Pianist_In_60_Exercises).
+{{< tdclose >}}
+{{< tdopen >}}
+Hanon, Charles-Louis. _The Virtuoso Pianist in 60 Exercises_. New York, NY: G. Schirmer, 1986. ISBN: 9780793525447.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Simple pieces from Bartok Mikrokosmos.
+{{< tdclose >}}
+{{< tdopen >}}
+Bartok, Bela. _Mikrokosmos_. Vol. 1. New York, NY: Boosey and Hawkes, 1987.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Selected pieces and exercises
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lindeman, Carolynn. _PianoLab: An Introduction to Class Piano_. 5th edition (Book and CD). Belmont, CA: Wadsworth/Thomson Learning, 2003. ISBN: 9780534603540.
+
+Olson, Lynn Freeman and Martha Hilley. _Piano for Pleasure: A Basic Course for Adults_. 4th edition (Book and CD). New York, NY: G. Schirmer, 2001. ISBN: 9780534519629
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Sight reading exercises from a variety of sources
+{{< tdclose >}}
+{{< tdopen >}}
+Smith, Hannah. _Progressive Sight-Reading Exercises for Piano_. New York, NY: G. Schirmer Inc., 1978. ISBN: 9780793552627.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Classical repertoire from assorted collection books
+{{< tdclose >}}
+{{< tdopen >}}
+Choices ranging from easy Bach minuets, Burgmuller, Clementi Sonatinas to Debussy preludes, Beethoven sonatas, etc.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
